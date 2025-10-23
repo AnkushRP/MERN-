@@ -1,0 +1,30 @@
+javascript is a high level programming or scripting language used to make our websites and web applications interactive.
+ways to add javascript to hyml:
+inline javascript
+internal javascript
+external javascript
+
+pre-defined functions of javascript:
+alert()
+prompt()
+console.log()
+document.write()
+
+variables
+containers to store datain code
+
+variable declarartion method
+1.var
+2.let
+3.const
+
+Rules to write variables-
+1)variables start with letter or $ or _
+2.variables include only letter ,number, _ and $
+3.variables are case sensitive
+4.variables cannot be reserved keywords like for, if,else,etc
+
+datatype
+primitive-number, string, boolean ,undefined,null,symbol and Bigint
+num-primitive- object,array and date
+
