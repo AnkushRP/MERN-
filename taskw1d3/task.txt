@@ -1,0 +1,6 @@
+task1
+design calculator built in class
+task 2
+write a js program that will take radius as a input and give volume of sphere as output and design that page also using css.
+task 3
+build a game using html,css, javascript

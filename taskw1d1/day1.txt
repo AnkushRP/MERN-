@@ -1,0 +1,49 @@
+Full stack development or web development
+development of website and web-applications
+
+frontend
+html-content/structure
+css-styling
+javascript-logic/functionality
+bootstrap-css framework
+react-javascript library
+
+backend
+-nodejs-runtime environment of javascript
+express js-framework of node js
+
+database
+mongodb-nosql database
+
+day1
+task1
+complete profile page(only html)
+task2
+create a home page of any website(omly html)
+task3
+create login page of Instagram(only html)
+
+Full stack development or web development
+development of website and web-applications
+
+frontend
+html-content/structure
+css-styling
+javascript-logic/functionality
+bootstrap-css framework
+react-javascript library
+
+backend
+-nodejs-runtime environment of javascript
+express js-framework of node js
+
+database
+mongodb-nosql database
+
+day1
+task1
+complete profile page(only html)
+task2
+create a home page of any website(omly html)
+task3
+create login page of Instagram(only html)
