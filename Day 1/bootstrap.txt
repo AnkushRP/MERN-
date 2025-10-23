@@ -1,0 +1,12 @@
+Bootstrap-
+Frontend Framework or css framework used for creating responsive websites and web application
+
+two ways to add bootstrap-
+1.cdn links
+2.download
+
+grid system-
+1.breakpoint
+2.container
+3.column
+4.row
