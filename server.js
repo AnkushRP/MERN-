@@ -1,0 +1,20 @@
+//console.log("Hello Everyone");
+const express = require("express")
+const mongoose =require("mongoose");
+const app=express()
+//Db connection
+mongoose.connect("mongodb+srv://ankushrp2004:<password>@cluster0.nvbesvi.mongodb.net/internship-batch3").then(()=>{
+    console.log("Database is connected successfully");
+})
+.catch((err)=>{
+    console.log(err,"something went wrong");
+})
+//Test Api
+app.get("/test",(req,res)=>{
+    res.send("Hello Everyone, This is Test Api ");
+});
+
+app.listen(5000,()=>{
+    console.log("Server is running on port 5000");
+
+});
