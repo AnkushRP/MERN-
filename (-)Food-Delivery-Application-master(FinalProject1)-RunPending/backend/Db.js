@@ -1,6 +1,6 @@
 const { Result } = require('express-validator');
 const mongoose = require('mongoose');
-let uri = `mongodb+srv://saieshsawant70:nayana12@cluster0.jufyd68.mongodb.net/GOFOOD?retryWrites=true&w=majority`
+let uri = `mongodb+srv://username:password@cluster0.jufyd68.mongodb.net/GOFOOD?retryWrites=true&w=majority`
 // let client= new mongodb.MongoClient(uri)
 
 // async function connect(){
