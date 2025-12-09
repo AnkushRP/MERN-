@@ -10,7 +10,7 @@ app.use("/",routes);
 //Db connection
 mongoose
 .connect(
-    "mongodb+srv://ankushrp2004:ankush123@cluster0.nvbesvi.mongodb.net/internship-batch3"
+    "mongodb+srv://@cluster0.nvbesvi.mongodb.net/internship-batch3"
 )
 .then(()=>{
     console.log("Database is connected successfully");
@@ -25,4 +25,5 @@ app.get("/test",(req,res)=>{
 
 app.listen(5000,()=>{
     console.log("Server is running on port 5000");
+
 });
