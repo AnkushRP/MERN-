@@ -3,7 +3,7 @@ const express = require("express")
 const mongoose =require("mongoose");
 const app=express()
 //Db connection
-mongoose.connect("mongodb+srv://ankushrp2004:<password>@cluster0.nvbesvi.mongodb.net/internship-batch3").then(()=>{
+mongoose.connect("mongodb+srv://<name>:<password>@cluster0.nvbesvi.mongodb.net/internship-batch3").then(()=>{
     console.log("Database is connected successfully");
 })
 .catch((err)=>{
