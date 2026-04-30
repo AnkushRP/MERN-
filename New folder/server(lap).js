@@ -10,7 +10,7 @@ app.use("/",routes);
 //Db connection
 mongoose
 .connect(
-    "mongodb+srv://ankushrp2004:ankush123@cluster0.nvbesvi.mongodb.net/internship-batch3"
+    "mongodb+srv://<name>:<password>@cluster0.nvbesvi.mongodb.net/internship-batch3"
 )
 .then(()=>{
     console.log("Database is connected successfully");
