@@ -1,0 +1,16 @@
+#box{
+    border: 5px solid green;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    text-align: center;
+    color: blue;
+    background-color: rgb(204, 250, 235);
+}
+#image{
+    width: 275px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
